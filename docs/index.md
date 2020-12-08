@@ -1,24 +1,13 @@
-# Entrance page
-
-To this page you should add links to your interactive html-maps that are located under your Exercise-5 repository like the following (*modify the username part* + *notice that **e**xercise starts with lower e -letter *):
-
- `https://autogis-2020.github.io/exercise-5-YourUserName/filename.html`
-
-Here is an example how to do it in MarkDown for user VuokkoH:
-
-```
-[Link to test map](https://autogis-2020.github.io/exercise-5-VuokkoH/test_map.html)
-```
-## Publishing the maps 
-
-In order to access the files via the links, you need to set the repository as public and adjust the GitHub pages settins
 ## My maps
 
-Edit the text below and add links to the maps that you have created:
+This is my static map. It shows the distances to nearest bus stops from 250m x 250m grid square centroids in Helsinki region. Link to the original HSL data used in both of the maps: (https://hri.fi/data/en_GB/dataset/hsl-n-joukkoliikenteen-pysakit)
 
- - [My static map]()
- - [My interactive map]()
- 
- You can check syntax for formatting the links in here: 
- - [Link to test map](https://autogis-2020.github.io/exercise-5-VuokkoH/test_map.html)
+```
+ - [My static map](https://autogis-2020.github.io/exercise-5-nylanben/distance_to_bus_stop.png)
+```
+
+My interactive map shows the locations of tram stops that are in use in Helsinki. On the other layer there is a heatmap to show better the uneven distribution of the stops.
+```
+ - [My interactive map](https://autogis-2020.github.io/exercise-5-nylanben/tram_stops.html)
+ ```
 
